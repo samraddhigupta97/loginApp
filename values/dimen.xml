@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textInputWidth">300dp</dimen>
+    <dimen name="textInputHeight">300dp</dimen>
+    <dimen name="textInputMargin">15dp</dimen>
+
+</resources>
